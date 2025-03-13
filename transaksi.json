@@ -1,6 +1,6 @@
 {
-  "total_refID": 8,
-  "total_uang_masuk": "8.258258258258259e+22825",
+  "total_refID": 9,
+  "total_uang_masuk": "8825",
   "data": {
     "FF5°4832404108°TRX1741852016961°undefined": {
       "harga": "825",
@@ -49,6 +49,12 @@
       "status": "PROSES",
       "refund": false,
       "tanggal": "2025-03-13 17:50"
+    },
+    "FF5°2062476833°TRX1741863299874°undefined": {
+      "harga": "825",
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2025-03-13 17:55"
     }
   }
 }
